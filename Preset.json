@@ -1,0 +1,17 @@
+{
+  "Title": "Wakeup Time",
+  "TaskList": [
+    {
+      "Task": "Eat",
+      "Duration": 30
+    },
+    {
+      "Task": "Sleep",
+      "Duration": 60
+    },
+    {
+      "Task": "Commute",
+      "Duration": 45
+    }
+  ]
+}
